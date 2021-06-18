@@ -7,7 +7,7 @@
     "node": "12.18.4"
   },
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
